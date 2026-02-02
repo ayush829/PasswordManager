@@ -243,3 +243,8 @@ Relationships:
 ## ✅ Conclusion
 RevPassword Manager demonstrates a complete end-to-end Java application using JDBC and Oracle Database with a strong emphasis on security, clean architecture, and real-world design principles.
 
+---
+© 2026 Ayush Singh. All rights reserved.
+
+
+
